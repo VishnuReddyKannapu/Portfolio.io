@@ -15,5 +15,3 @@
 
 🔗 **Connect With Me**  
 📧 [Email](mailto:vishnuvardhankannapu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishnuvardhan-reddy-kannapu/) | [Tableau](https://public.tableau.com/app/profile/vishnuvardhanreddy.kannapu/vizzes)
-
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuKannapu&show_icons=true&theme=tokyonight)
